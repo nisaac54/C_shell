@@ -18,4 +18,5 @@ Compile with:
 	gcc p-shell.c -o p
 	gcc shell.c -o shell
 	./shell
-	
+
+<img width="294" alt="git_shell_output1" src="https://user-images.githubusercontent.com/62212683/144490612-45a4a9d5-4a36-45e7-b679-03b576d3ff20.PNG">
