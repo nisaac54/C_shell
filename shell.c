@@ -116,6 +116,7 @@ void mykill(int pid){
 	else{
 		kill(pid,SIGTERM);
 	}
+	printf("\n");
 
 	printf("You have just killed process %d\n",pid );
 }
