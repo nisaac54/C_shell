@@ -1,5 +1,7 @@
 A simple shell to execute a process
-Operates on a (FCFS) first come first serve schedualer 
+
+Operates on a (FCFS) first come first serve schedualer
+
 Supports 4 background processes ( including head )
 
 Supports the following commands:
