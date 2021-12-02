@@ -8,7 +8,7 @@ Supports the following commands:
 	- ver:    shows details about the shell
 	- kill:   kills a process with given PID
 	- clear:  clear the screen
- 	- ps:     shows living process with given PID  
+ 	- ps:     shows living process with there given PID  
         - exit:   exits the program
 	- exec:   p1(n1,qt1) p2(n2,qt2) ...: Executes the programs p1, p2 ... Each program types a
 		  message for n times and it is given a time quantum of qt msec. If the parameter (&) is
