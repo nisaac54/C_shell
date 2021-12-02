@@ -162,7 +162,6 @@ void *exec(char *input) {
 	}
 
 	enqueue(t, args[0], &pid_list);
-	ps(); //Display the queue, demonstration purposes
 
 	//If in forground deallocate memory 
 	if(backround == 1){
