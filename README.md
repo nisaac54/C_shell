@@ -2,7 +2,7 @@ A simple shell to execute a process
 
 Operates on a (FCFS) first come first serve schedualer
 
-Supports 4 background processes ( including head )
+Supports 3 background processes
 
 Supports the following commands:
 
@@ -12,7 +12,7 @@ Supports the following commands:
 	- clear:  clear the screen
  	- ps:     shows living process with there given PID
 	- exit:   exits the program
-	- exec:   p1(n1,qt1) p2(n2,qt2) ...: Executes the programs p1, p2 ... Each program types a
+	- exec:   p1(n1,qt1) p2(n2,qt2): Executes the programs p1, p2. Each program types a
 		  message for n times and it is given a time quantum of qt msec. If the parameter (&) is
 		  given the program will be executed in the background
 
